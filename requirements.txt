@@ -1,2 +1,2 @@
 common-code[test] @ git+https://github.com/swiss-ai-center/common-code.git@main
-Pillow==9.4.0
+pillow==10.2.0
